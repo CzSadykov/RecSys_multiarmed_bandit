@@ -72,4 +72,4 @@ Key features:
 
 ## Conclusion
 
-This Multi-Armed Bandits Microservice provides a powerful tool for optimizing offer selection in real-time within a CPA platform. By leveraging advanced Reinforcement Learning strategies... I'm surprised you're still reading this lol. Have a great rest of your day. Cheers!
+This Multi-Armed Bandits Microservice provides a powerful tool for optimizing offer selection in real-time within a CPA platform. By leveraging advanced Reinforcement Learning strategies... I'm surprised you're still reading this. Thanks for the interest and have a wonderful day! 
