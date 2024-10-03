@@ -1,4 +1,4 @@
-# Multi-Armed Bandits Microservice for CPA Platform
+# Multi-Armed Bandit Microservice for CPA Platform
 
 This project implements a simple system for optimizing offer selection in a Cost-Per-Action (CPA) platform using sampling strategies from Reinforcement Learning (UCB and Thompson Sampling).
 
@@ -8,7 +8,7 @@ This  microservice is an example of an intelligent intermediary between advertis
 
 Sampling with the Upper Confidence Bound (UCB) or Thompson Sampling methods (depending on your choice) allows you to balance exploration and exploitation, ensuring that system learns from user interactions while maximizing overall performance and revenue.
 
-Of course real-world microservices are more complex and should include more sophisticated algorithms for offer selection and ranking, as well as more sophisticated data storage and processing techniques. But this minimalistic version should give you a good understanding of the concept and the code should be easy to extend and modify.
+Of course real-world microservices are more complex and should include more sophisticated algorithms for offer selection and ranking, as well as complex data storage (here I'm using simple dictionaries lol) and processing techniques. But this minimalistic example should give you a good understanding of the concept and the code should be easy to extend and modify.
 
 ## Key Components
 
